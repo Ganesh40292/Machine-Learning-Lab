@@ -1,0 +1,63 @@
+Results for k=1:
+['Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class2'
+ 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class1'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1'
+ 'Class2' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2'
+ 'Class1' 'Class2' 'Class1' 'Class1' 'Class1' 'Class1' 'Class2' 'Class1'
+ 'Class2' 'Class2'] 
+
+Results for k=2:
+['Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class2'
+ 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class1'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1'
+ 'Class2' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2'
+ 'Class1' 'Class2' 'Class1' 'Class1' 'Class1' 'Class1' 'Class2' 'Class1'
+ 'Class2' 'Class2'] 
+
+Results for k=3:
+['Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class2'
+ 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class1'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1'
+ 'Class2' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2'
+ 'Class1' 'Class2' 'Class1' 'Class1' 'Class1' 'Class1' 'Class2' 'Class1'
+ 'Class2' 'Class2'] 
+
+Results for k=4:
+['Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class2'
+ 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class1'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1'
+ 'Class2' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2'
+ 'Class1' 'Class2' 'Class1' 'Class1' 'Class1' 'Class1' 'Class2' 'Class1'
+ 'Class2' 'Class2'] 
+
+Results for k=5:
+['Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class2'
+ 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class1'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1'
+ 'Class2' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2'
+ 'Class1' 'Class2' 'Class1' 'Class1' 'Class1' 'Class1' 'Class2' 'Class1'
+ 'Class2' 'Class2'] 
+
+Results for k=20:
+['Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class2'
+ 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class1'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1'
+ 'Class2' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2'
+ 'Class1' 'Class2' 'Class1' 'Class1' 'Class1' 'Class1' 'Class2' 'Class1'
+ 'Class2' 'Class2'] 
+
+Results for k=30:
+['Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class2'
+ 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2' 'Class2' 'Class1'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1'
+ 'Class2' 'Class2' 'Class2' 'Class2' 'Class1' 'Class1' 'Class1' 'Class2'
+ 'Class1' 'Class1' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2' 'Class2'
+ 'Class1' 'Class2' 'Class1' 'Class1' 'Class1' 'Class1' 'Class2' 'Class1'
+ 'Class2' 'Class2'] 
+
