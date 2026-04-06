@@ -111,9 +111,9 @@ git clone https://github.com/your-username/Machine-Learning-Lab.git
 cd Machine-Learning-Lab
 ```
 3. Install dependencies:
-``bash
+```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
-``
+```
 
 4. Run any experiment:
    ```bash
