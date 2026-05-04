@@ -10,5 +10,5 @@ sns.heatmap(correlation_matrix, annot=True, cmap='BuPu',fmt='.2f', linewidths=1.
 plt.title('Correlation Matrix of California Housing Features')
 plt.show()
 sns.pairplot(data,diag_kind='kde',plot_kws={'alpha':0.5})
-plt.suptitle('Correlation Matrix of California Housing Features',y=1.02)
+plt.suptitle('Pair Plot of California Housing Features',y=1.02)
 plt.show()
