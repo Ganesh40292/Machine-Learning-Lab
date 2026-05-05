@@ -14,7 +14,7 @@ plt.figure(figsize=(15,10))
 for i,feature in enumerate(numerical_features):
     plt.subplot(3,3,i+1)
     sns.histplot(housing_df[feature],kde=True,bins=30,color='blue')
-    plt.title(f'Box plot of {feature}')
+    plt.title(f'Distribution of {feature}')
 
 plt.tight_layout()
 plt.show()
