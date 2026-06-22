@@ -104,7 +104,7 @@ This repository contains implementations of fundamental Machine Learning algorit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Machine-Learning-Lab.git
+git clone https://github.com/Ganesh40292/Machine-Learning-Lab.git
 ```
 2. Navigate to the folder:
 ```bash
